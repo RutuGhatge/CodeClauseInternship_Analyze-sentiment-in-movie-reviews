@@ -7,8 +7,8 @@ Use Natural Language Processing (NLP) techniques to preprocess text data and
 build a sentiment analysis model.
 
 Technologies-
-Python, Pandas, NLTK or SpaCy.You can use other technologies that you know.
+Python libraries - NLTK, Sklearn, pandas, Matplotlib
 
 What You Learn-
 Text preprocessing, feature engineering, and sentiment analysis.
-Internship Tasks
+
